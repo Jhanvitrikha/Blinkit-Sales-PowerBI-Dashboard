@@ -11,18 +11,31 @@ The goal of this project is to practice data analysis, visualization, and dashbo
 The dataset contains grocery sales data from Blinkit outlets with the following attributes:
 
 Column Name	Description
+
 Item Fat Content	Indicates whether the product is Low Fat or Regular
+
 Item Identifier	Unique ID of the product
+
 Item Type	Category of the product (e.g., Dairy, Snacks, Fruits)
+
 Outlet Establishment Year	Year when the outlet was established
+
 Outlet Identifier	Unique ID for each outlet
+
 Outlet Location Type	Tier classification of outlet location
+
 Outlet Size	Size category of the outlet (Small / Medium / High)
+
 Outlet Type	Type of outlet (Supermarket, Grocery Store, etc.)
+
 Item Visibility	Percentage of product visibility in the store
+
 Item Weight	Weight of the product
+
 Sales	Total sales amount of the product
+
 Rating	Customer rating for the product
+
 📊 Dashboard Features
 
 The Power BI dashboard includes the following visualizations:
@@ -71,6 +84,7 @@ Blinkit-Grocery-Sales-Dashboard/
 ├── BlinkIT Grocery Data.xlsx   # Raw dataset
 ├── Power_BI_Blinkit.pbix       # Power BI dashboard file
 └── README.md                   # Project documentation
+
 🚀 How to Use
 
 Download the .pbix file from this repository.
